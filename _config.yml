@@ -27,7 +27,7 @@ author:
   name             : "Info"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Canada"
+  location         : #"Canada"
   employer         : #""
   uri              : # URL
   email            : #"none@example.org" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-4619-3026"
+  orcid            : #"https://orcid.org/0000-0002-4619-3026"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
