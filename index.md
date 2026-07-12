@@ -43,7 +43,7 @@ Contact: email (found in the pdfs below)
 ## Code
 ### GitHub repositories containing SageMath code corresponding to some of my research projects
 
-* [Scripts for my PhD thesis and submitted preprint](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
-* [Scripts for my brother's thesis and upcoming submission](https://github.com/Ben-E-L-Math/Code-for-Solving-a-family-of-relative-Thue-equations)
+* [Code for my PhD thesis and submitted preprint](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
+* [Code for my brother's thesis and upcoming submission](https://github.com/Ben-E-L-Math/Code-for-Solving-a-family-of-relative-Thue-equations)
 
   
