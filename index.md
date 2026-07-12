@@ -18,7 +18,7 @@ Contact: email (found in the pdfs below)
 * **Powers as Fibonacci sums**
   Benjamin Earp-Lynch, Simon Earp-Lynch, Omar Kihel and P. Tiebekabe. 
   *Quaest. Math.*, **48** (2025), no. 4, 597--609.
-  [[Journal Link]](DOI 10.2989/16073606.2024.2411461) 
+  [[Journal Link]](10.2989/16073606.2024.2411461) 
 
 * **On the solutions of the Diophantine equation $F_{n_1} + F_{n_2} + F_{n_3} + F_{n_4} = 11^a$**
   Benjamin Earp-Lynch, Simon Earp-Lynch and Asmae El Baz. 
@@ -43,6 +43,7 @@ Contact: email (found in the pdfs below)
 ## Code
 ### GitHub repositories containing SageMath code corresponding to some of my research projects
 
-* 
+* [Code for my thesis and submitted preprint](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
+* [Code for my brother's thesis and upcoming submission](https://github.com/Ben-E-L-Math/Code-for-Solving-a-family-of-relative-Thue-equations)
 
   
