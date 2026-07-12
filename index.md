@@ -1,3 +1,5 @@
+<div style="max-width: 800px; margin: 0 auto; padding: 40px;" markdown="1">
+
 # Simon Earp-Lynch
 
 I am a recent graduate of Carleton University working in Number Theory. 
@@ -46,4 +48,5 @@ Contact: email (found in the pdfs below)
 * [Code for my PhD thesis and submitted preprint](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
 * [Code for my brother's thesis and upcoming submission](https://github.com/Ben-E-L-Math/Code-for-Solving-a-family-of-relative-Thue-equations)
 
-  
+
+</div>
