@@ -27,7 +27,7 @@ Contact: email (found in the pdfs below)
   *J. Algebra Relat. Topics*, **13** (2025), no. 1, 73--85.
   [[Journal Link]](10.22124/JART.2024.24741.1540)
 
-* **Extension of the equation $\sum^{k}_{j=1}F^{p}_{j}=F^{q}_{n}$ to a family of Lucas sequences**.
+* **Extension of the equation $\sum_{j=1}^{k} F^{p}_{j}=F^{q}_{n}$ to a family of Lucas sequences**.
   Benjamin Earp-Lynch, Simon Earp-Lynch, Omar Kihel and Puntani Pongsumpun.
   *Fibonacci Quart.* **62** (2024), no. 3, 241--257.
   [[Journal Link]](10.1080/00150517.2024.12459540)
