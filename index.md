@@ -1,7 +1,5 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 40px;" markdown="1">
 
-# Simon Earp-Lynch
-
 I am a recent graduate of Carleton University working in Number Theory. 
 
 Contact: email (found in the pdfs below)
@@ -30,7 +28,7 @@ Contact: email (found in the pdfs below)
 * **Extension of the equation $\sum_{j=1}^{k} F_{j}^{p} = F_{n}^{q}$ to a family of Lucas sequences.**
   Benjamin Earp-Lynch, Simon Earp-Lynch, Omar Kihel and Puntani Pongsumpun.
   *Fibonacci Quart.* **62** (2024), no. 3, 241--257.
-  [[Journal Link]](10.1080/00150517.2024.12459540)
+  [[Journal Link]](10.1080/00150517.2024.12459540), [[arXiv]](https://arxiv.org/abs/2607.09105)
 
 * **A note on the Diophantine equation $x^2 - kxy + ky^2 +ly = 0$**.
   Sakha A. Alkabouss, Boualem Benseba, Nacira Berbara, Simon Earp-Lynch and Florian Luca.
