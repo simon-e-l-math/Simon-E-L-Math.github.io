@@ -1,8 +1,8 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 40px;" markdown="1">
 
-I am a recent graduate of Carleton University working in Number Theory. 
+#I am a recent graduate of Carleton University working in Number Theory. 
 
-Contact: email (found in the pdfs below)
+Contact: email
 
 ---
 
